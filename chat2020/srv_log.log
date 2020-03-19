@@ -1,0 +1,32 @@
+мар. 19, 2020 11:13:18 PM server.Server <init>
+INFO: Сервер запустился
+мар. 19, 2020 11:13:35 PM server.ClientHandler lambda$new$0
+INFO: Аутентификация
+мар. 19, 2020 11:13:35 PM server.ClientHandler lambda$new$0
+INFO: Клиент nick1 подключился
+мар. 19, 2020 11:13:40 PM server.ClientHandler lambda$new$0
+INFO: Аутентификация
+мар. 19, 2020 11:13:40 PM server.ClientHandler lambda$new$0
+INFO: Клиент new_nick подключился
+мар. 19, 2020 11:13:49 PM server.ClientHandler lambda$new$0
+INFO: Аутентификация
+мар. 19, 2020 11:13:49 PM server.ClientHandler lambda$new$0
+INFO: С этим логином уже авторизовались
+мар. 19, 2020 11:13:56 PM server.ClientHandler lambda$new$0
+INFO: Неверный логин / пароль
+мар. 19, 2020 11:14:12 PM server.ClientHandler lambda$new$0
+INFO: Сервер получил команду /w nick1 hello_nick1
+мар. 19, 2020 11:14:12 PM server.ClientHandler lambda$new$0
+INFO: Клиент new_nick отправил личное сообщение nick1: hello_nick1
+мар. 19, 2020 11:15:56 PM server.ClientHandler lambda$new$0
+INFO: Клиент отключился по таймауту
+мар. 19, 2020 11:15:56 PM server.ClientHandler lambda$new$0
+INFO: Клиент null отключился
+мар. 19, 2020 11:16:15 PM server.ClientHandler lambda$new$0
+INFO: Сервер получил команду /end
+мар. 19, 2020 11:16:15 PM server.ClientHandler lambda$new$0
+INFO: Клиент nick1 отключился
+мар. 19, 2020 11:16:17 PM server.ClientHandler lambda$new$0
+INFO: Сервер получил команду /end
+мар. 19, 2020 11:16:17 PM server.ClientHandler lambda$new$0
+INFO: Клиент new_nick отключился
